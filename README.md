@@ -11,7 +11,8 @@
 
 
 
-## Github Shortcuts
+## VS Code Shortcuts
+
 ## Open/View
 
 Open Command Pallete
