@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m @vale-sch
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vale-sch)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=FestivalPlaner)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=MadMaze)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=basketBallBattleRoyale)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=FestivalPlaner)](https://github.com/vale-sch/FestivalPlaner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=MadMaze)](https://github.com/vale-sch/MadMaze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=basketBallBattleRoyale)](https://github.com/vale-sch/basketBallBattleRoyale)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vale-sch)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vale_sch)](https://github.com/anuraghazra/github-readme-stats)
