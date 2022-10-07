@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vale-sch)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vale-sch)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vale_sch)]
 
 
 
