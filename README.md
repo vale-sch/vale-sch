@@ -9,10 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vale-sch)]
 
-<img
-  src="https://github.com/vale-sch/vale-sch/blob/main/images/stat.svg"
-  alt="vale-sch WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
