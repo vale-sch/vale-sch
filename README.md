@@ -7,7 +7,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vale-sch)]
-
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 
 
