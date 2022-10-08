@@ -7,7 +7,27 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vale-sch)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vale_sch)]
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ 103ee117-49c4-46eb-8b7e-cba744b5752e }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
 
 
 
