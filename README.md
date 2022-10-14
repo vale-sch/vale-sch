@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @vale-sch / Valetin Schmidberger
+## 👋 Hi, I’m @vale-sch / Valentin Schmidberger
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vale-sch)](https://github.com/anuraghazra/github-readme-stats)
 
