@@ -2,18 +2,20 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vale-sch)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=FestivalPlaner)](https://github.com/vale-sch/FestivalPlaner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=MadMaze)](https://github.com/vale-sch/MadMaze)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=basketBallBattleRoyale)](https://github.com/vale-sch/basketBallBattleRoyale)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vale-sch)]
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=FestivalPlaner)](https://github.com/vale-sch/FestivalPlaner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=MadMaze)](https://github.com/vale-sch/MadMaze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=basketBallBattleRoyale)](https://github.com/vale-sch/basketBallBattleRoyale)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
 **🐱 My GitHub Data** 
 
 > 🏆 47 Contributions in the Year 2022
