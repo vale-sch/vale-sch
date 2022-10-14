@@ -12,10 +12,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=FestivalPlaner)](https://github.com/vale-sch/FestivalPlaner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=MadMaze)](https://github.com/vale-sch/MadMaze)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=basketBallBattleRoyale)](https://github.com/vale-sch/basketBallBattleRoyale)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
+
 **🐱 My GitHub Data** 
 
 > 🏆 47 Contributions in the Year 2022
@@ -97,7 +94,10 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
  Last Updated on 13/10/2022 19:01:46 UTC
 <!--END_SECTION:waka-->
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=FestivalPlaner)](https://github.com/vale-sch/FestivalPlaner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=MadMaze)](https://github.com/vale-sch/MadMaze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=basketBallBattleRoyale)](https://github.com/vale-sch/basketBallBattleRoyale)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-sch&repo=ecg_GruppeEVA-Shaderdemo)](https://github.com/vale-sch/ecg_GruppeEVA-Shaderdemo)
 
 
 ## VS Code Shortcuts
