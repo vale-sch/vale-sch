@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @vale-sch / Valentin Schmidberger
-##  (https://vale-sch.github.io/ValentinSchmidberger/ "Portfolio")
+##  [Portfolio](https://vale-sch.github.io/ValentinSchmidberger/ "Portfolio")
 <!--START_SECTION:waka-->
 
 ```text
