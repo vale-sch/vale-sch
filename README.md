@@ -3,12 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 42 mins  █████████▓░░░░░░░░░░░░░░░   38.66 %
-HTML         7 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-JavaScript   4 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-CSS          2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-GLSL         2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+From: 02 July 2022 - To: 19 November 2022
+
+Total Time: 89 hrs 31 mins
+
+TypeScript   62 hrs 14 mins  >>>>>>>>>>>>>>>>>--------   69.52 %
+JavaScript   11 hrs 57 mins  >>>----------------------   13.35 %
+HTML         7 hrs 31 mins   >>-----------------------   08.40 %
+GLSL         2 hrs 35 mins   >------------------------   02.89 %
+CSS          2 hrs 12 mins   >------------------------   02.47 %
+JSON         1 hr 43 mins    -------------------------   01.92 %
 ```
 
 <!--END_SECTION:waka-->
