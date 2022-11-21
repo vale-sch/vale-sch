@@ -20,15 +20,5 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: true
-          SHOW_COMMIT: true
-          SHOW_EDITORS: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_LANGUAGE: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_TIMEZONE: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_SHORT_INFO: true
-          SHOW_LOC_CHART: true
+          
+
