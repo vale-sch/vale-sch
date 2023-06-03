@@ -3,8 +3,8 @@
 ##  [Portfolio](https://vale-sch.github.io/ValentinSchmidberger/ "Portfolio")
 <!--START_SECTION:waka-->
 
-```text
-Python   2 hrs 56 mins   █████████████████████████   100.00 %
+```txt
+Python   2 hrs 1 min     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
